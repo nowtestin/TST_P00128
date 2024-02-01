@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8c51f3c347723110621a73d7826d435d" sys_domain="global" table="x_846092_tst_p0012_task_p00128" version="3" view="Tables">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>69d309d3477b7910621a73d7826d431e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <text>通知先会社名</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_file_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e1d309d3477b7910621a73d7826d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_tongzhi_ff</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e5d309d3477b7910621a73d7826d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_file_attachment_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e9d309d3477b7910621a73d7826d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>69d309d3477b7910621a73d7826d431e</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>edd309d3477b7910621a73d7826d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_necd</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e1d309d3477b7910621a73d7826d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_nesd</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e5d309d3477b7910621a73d7826d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>v_shoni_coment</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e9d309d3477b7910621a73d7826d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>edd309d3477b7910621a73d7826d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e1d309d3477b7910621a73d7826d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e5d309d3477b7910621a73d7826d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>e9d309d3477b7910621a73d7826d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-23 01:28:37</sys_created_on>
+            <sys_id>a1d309d3477b7910621a73d7826d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_p0012_task_p00128" sys_domain="global" view="f3332c72d4e3211095d7c105f1bf4340">8c51f3c347723110621a73d7826d435d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-23 01:28:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_846092_tst_p0012_task_p00128</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-04 02:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c51f3c347723110621a73d7826d435d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_846092_tst_p0012_task_p00128</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+            <sys_update_name>sys_ui_section_8c51f3c347723110621a73d7826d435d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-04 02:25:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Tables" name="Tables">f3332c72d4e3211095d7c105f1bf4340</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

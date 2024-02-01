@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_846092_tst_p0012.Approved" name="x_846092_tst_p0012.Approved">dcacd695473a7110621a73d7826d430a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 09:48:20</sys_created_on>
+        <sys_id>632d5695473a7110621a73d7826d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dcacd695473a7110621a73d7826d430a</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_632d5695473a7110621a73d7826d4344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 09:48:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

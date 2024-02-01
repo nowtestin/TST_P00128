@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Portal Meum Homepage - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="approve_index">26b446254776b110621a73d7826d43be</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 02:39:58</sys_created_on>
+        <sys_id>6eb402a54776b110621a73d7826d43e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Portal Meum Homepage - Container 2</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sp_container_6eb402a54776b110621a73d7826d43e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 02:52:50</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</application>
+        <file_path/>
+        <instance_id>75b4f7e7db3abf449df22f17d4961911</instance_id>
+        <instance_name>dev89563</instance_name>
+        <name>sp_container_6eb402a54776b110621a73d7826d43e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Portal Meum Homepage - Container 2</name><order>2</order><sp_page display_value="approve_index">26b446254776b110621a73d7826d43be</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-29 02:39:58</sys_created_on><sys_id>6eb402a54776b110621a73d7826d43e9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Portal Meum Homepage - Container 2</sys_name><sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package><sys_policy/><sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope><sys_update_name>sp_container_6eb402a54776b110621a73d7826d43e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-29 02:52:50</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>354644077</payload_hash>
+        <record_name>Portal Meum Homepage - Container 2</record_name>
+        <reverted_from/>
+        <source>4b7c8e1547f67110621a73d7826d43a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 02:52:50</sys_created_on>
+        <sys_id>cfa746a54776b110621a73d7826d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c18fe57040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 02:52:50</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c7a746a50876b110142d47e7bae4008c</update_guid>
+        <update_guid_history>c7a746a50876b110142d47e7bae4008c:354644077,aab402a5e576b110cda03f51f71fd0eb:1439835438</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Portal Meum Homepage - Container 2">d5c74e294776b110621a73d7826d43b6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 02:53:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1e57e9de433e41a3bf8ede83f4c3b6f1</sys_id>
+        <sys_metadata>6eb402a54776b110621a73d7826d43e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Meum Homepage - Container 2</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_scope_delete display_value="">395fa1e0727a475c99799a1ae8f89a90</sys_scope_delete>
+        <sys_update_name>sp_container_6eb402a54776b110621a73d7826d43e9</sys_update_name>
+        <sys_update_version display_value="sp_container_6eb402a54776b110621a73d7826d43e9">cfa746a54776b110621a73d7826d438c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 02:53:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

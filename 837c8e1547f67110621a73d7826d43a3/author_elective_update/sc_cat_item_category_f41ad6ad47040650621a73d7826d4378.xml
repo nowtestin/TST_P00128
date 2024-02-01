@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Copy of 発信通知">301a562947040650621a73d7826d4354</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:31:44</sys_created_on>
+        <sys_id>f41ad6ad47040650621a73d7826d4378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Copy of 発信通知</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sc_cat_item_category_f41ad6ad47040650621a73d7826d4378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:31:44</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</application>
+        <file_path/>
+        <instance_id>75b4f7e7db3abf449df22f17d4961911</instance_id>
+        <instance_name>dev89563</instance_name>
+        <name>sc_cat_item_category_f41ad6ad47040650621a73d7826d4378</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of 発信通知">301a562947040650621a73d7826d4354</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-30 07:31:44</sys_created_on><sys_id>f41ad6ad47040650621a73d7826d4378</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Copy of 発信通知</sys_name><sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package><sys_policy/><sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope><sys_update_name>sc_cat_item_category_f41ad6ad47040650621a73d7826d4378</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-30 07:31:44</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2035242776</payload_hash>
+        <record_name>Can We Help You?.Copy of 発信通知</record_name>
+        <reverted_from/>
+        <source>4b7c8e1547f67110621a73d7826d43a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:31:44</sys_created_on>
+        <sys_id>341ad6ad47040650621a73d7826d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d5947f4b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:31:44</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>381ad6addf040650df7436151fdc4b7b</update_guid>
+        <update_guid_history>381ad6addf040650df7436151fdc4b7b:2035242776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Copy of 発信通知">b1da1aed47040650621a73d7826d43a2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:35:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1a01544a9ae14e1c841eeeb5cb7974e4</sys_id>
+        <sys_metadata>f41ad6ad47040650621a73d7826d4378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Copy of 発信通知</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_scope_delete display_value="">395fa1e0727a475c99799a1ae8f89a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f41ad6ad47040650621a73d7826d4378</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f41ad6ad47040650621a73d7826d4378">341ad6ad47040650621a73d7826d437c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:35:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

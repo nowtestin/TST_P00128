@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Copy of 発信通知">301a562947040650621a73d7826d4354</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:31:44</sys_created_on>
+        <sys_id>f81ad6ad47040650621a73d7826d4373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of 発信通知</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f81ad6ad47040650621a73d7826d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:31:44</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</application>
+        <file_path/>
+        <instance_id>75b4f7e7db3abf449df22f17d4961911</instance_id>
+        <instance_name>dev89563</instance_name>
+        <name>sc_cat_item_catalog_f81ad6ad47040650621a73d7826d4373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of 発信通知">301a562947040650621a73d7826d4354</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-30 07:31:44</sys_created_on><sys_id>f81ad6ad47040650621a73d7826d4373</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Copy of 発信通知</sys_name><sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package><sys_policy/><sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope><sys_update_name>sc_cat_item_catalog_f81ad6ad47040650621a73d7826d4373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-30 07:31:44</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1069038910</payload_hash>
+        <record_name>Service Catalog.Copy of 発信通知</record_name>
+        <reverted_from/>
+        <source>4b7c8e1547f67110621a73d7826d43a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:31:44</sys_created_on>
+        <sys_id>7c1ad6ad47040650621a73d7826d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d5947f4760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:31:44</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>301ad6ad5d040650433c6bebe92f6d77</update_guid>
+        <update_guid_history>301ad6ad5d040650433c6bebe92f6d77:-1069038910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Copy of 発信通知">eddadaad47040650621a73d7826d4306</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:35:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>f0f9c72d2f9c4e2894298468a3f69490</sys_id>
+        <sys_metadata>f81ad6ad47040650621a73d7826d4373</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of 発信通知</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_parent display_value="">301a562947040650621a73d7826d4354</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_scope_delete display_value="">395fa1e0727a475c99799a1ae8f89a90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_f81ad6ad47040650621a73d7826d4373</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_f81ad6ad47040650621a73d7826d4373">7c1ad6ad47040650621a73d7826d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:35:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

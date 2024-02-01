@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="52ac8a9547f67110621a73d7826d4313" extends="task" label="Task_P00128" max_length="40" name="x_846092_tst_p0012_task_p00128" type="collection">
+        <element default="edge_encryption_enabled=true;" label="Seal manager" max_length="4000" name="seal_manager" type="glide_list"/>
+        <element label="通知先会社" max_length="80" name="u_field_name_2" type="field_name"/>
+        <element label="通知先会社" max_length="65536" name="u_html_1" read_only="true" type="html"/>
+        <element label="V_approval_step1" max_length="4000" name="v_approval_step1" type="glide_list"/>
+        <element label="添付ファイル：通知本文" mandatory="true" max_length="40" name="v_file_attachment_1" type="file_attachment"/>
+        <element label="通知ファイル名" max_length="200" name="v_file_name" read_only="true" type="string"/>
+        <element choice="1" label="V_公開" max_length="40" name="v_gongkai" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="公開しない" value="b"/>
+                <element inactive_on_update="false" label="公開しない" language="ja" value="b"/>
+                <element inactive_on_update="false" label="公開する" value="a"/>
+                <element inactive_on_update="false" label="公開する" language="ja" value="a"/>
+            </choice>
+        </element>
+        <element label="ＮＥＣＤ" max_length="40" name="v_necd" type="boolean"/>
+        <element label="ＮＥＳＤ" max_length="40" name="v_nesd" type="boolean"/>
+        <element label="承認者コメント欄" max_length="4000" name="v_shoni_coment" type="string"/>
+        <element choice="1" label="通知方法" max_length="40" name="v_tongzhi_ff" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="E-Mail" value="a"/>
+                <element inactive_on_update="false" label="E-Mail" language="ja" value="a"/>
+                <element inactive_on_update="false" label="ポータル" value="b"/>
+                <element inactive_on_update="false" label="ポータル" language="ja" value="b"/>
+            </choice>
+        </element>
+    </element>
+</database>

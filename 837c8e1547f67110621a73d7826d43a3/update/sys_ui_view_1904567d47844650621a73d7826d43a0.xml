@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>ci_dashboard</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 01:43:46</sys_created_on>
+        <sys_id>1904567d47844650621a73d7826d43a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ci_dashboard</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sys_ui_view_1904567d47844650621a73d7826d43a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 01:43:46</sys_updated_on>
+        <title>Ci_dashboard</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

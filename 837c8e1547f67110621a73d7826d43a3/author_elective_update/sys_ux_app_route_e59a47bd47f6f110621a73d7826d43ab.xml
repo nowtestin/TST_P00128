@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="発信通知_承認者編集画面">e7b90b29477ab110621a73d7826d43dd</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams,views,selectedTabIndex</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">159a43bd47f6f110621a73d7826d434e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 02:23:41</sys_created_on>
+        <sys_id>e59a47bd47f6f110621a73d7826d43ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sys_ux_app_route_e59a47bd47f6f110621a73d7826d43ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 02:23:41</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=e59a47bd47f6f110621a73d7826d43ab"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</application>
+        <file_path/>
+        <instance_id>75b4f7e7db3abf449df22f17d4961911</instance_id>
+        <instance_name>dev89563</instance_name>
+        <name>sys_ux_app_route_e59a47bd47f6f110621a73d7826d43ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="発信通知_承認者編集画面">e7b90b29477ab110621a73d7826d43dd</app_config><description/><extension_point/><fields>table,sysId</fields><icon/><name>Record</name><optional_parameters>query,extraParams,views,selectedTabIndex</optional_parameters><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>record</route_type><screen_type display_value="Record">159a43bd47f6f110621a73d7826d434e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-30 02:23:41</sys_created_on><sys_id>e59a47bd47f6f110621a73d7826d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record</sys_name><sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package><sys_policy/><sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope><sys_update_name>sys_ux_app_route_e59a47bd47f6f110621a73d7826d43ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-30 02:23:41</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=e59a47bd47f6f110621a73d7826d43ab"/></record_update>]]></payload>
+        <payload_hash>765722520</payload_hash>
+        <record_name>Record</record_name>
+        <reverted_from/>
+        <source>4b7c8e1547f67110621a73d7826d43a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 02:23:41</sys_created_on>
+        <sys_id>a99a47bd47f6f110621a73d7826d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1e0a00060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 02:23:41</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>e19a47bdd5f6f110b928f83f0d211fad</update_guid>
+        <update_guid_history>e19a47bdd5f6f110b928f83f0d211fad:765722520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 02:52:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>57011e193a654d58bc6597d3a528e099</sys_id>
+        <sys_metadata>e59a47bd47f6f110621a73d7826d43ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_scope_delete display_value="">395fa1e0727a475c99799a1ae8f89a90</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_e59a47bd47f6f110621a73d7826d43ab</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_e59a47bd47f6f110621a73d7826d43ab">a99a47bd47f6f110621a73d7826d43ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 02:52:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

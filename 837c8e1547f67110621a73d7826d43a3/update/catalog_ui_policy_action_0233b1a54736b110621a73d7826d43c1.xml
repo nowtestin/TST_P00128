@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="発信通知">a0605e9947f67110621a73d7826d4347</catalog_item>
+        <catalog_variable>IO:f003d25d47f67110621a73d7826d4332</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 01:23:54</sys_created_on>
+        <sys_id>0233b1a54736b110621a73d7826d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v_shoni_coment</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0233b1a54736b110621a73d7826d43c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 01:23:54</sys_updated_on>
+        <table/>
+        <ui_policy display_value="承認者コメント欄の表示制御">c5d2b5654736b110621a73d7826d433c</ui_policy>
+        <variable>v_shoni_coment</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

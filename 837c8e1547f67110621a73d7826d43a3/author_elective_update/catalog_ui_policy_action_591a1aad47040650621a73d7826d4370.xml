@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:cd1a1aad47040650621a73d7826d4323</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:31:46</sys_created_on>
+        <sys_id>591a1aad47040650621a73d7826d4370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v_shoni_coment</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_591a1aad47040650621a73d7826d4370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:31:46</sys_updated_on>
+        <table/>
+        <ui_policy display_value="承認者コメント欄の表示制御">551a1aad47040650621a73d7826d4359</ui_policy>
+        <variable>v_shoni_coment</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</application>
+        <file_path/>
+        <instance_id>75b4f7e7db3abf449df22f17d4961911</instance_id>
+        <instance_name>dev89563</instance_name>
+        <name>catalog_ui_policy_action_591a1aad47040650621a73d7826d4370</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:cd1a1aad47040650621a73d7826d4323</catalog_variable><cleared>false</cleared><disabled>true</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-30 07:31:46</sys_created_on><sys_id>591a1aad47040650621a73d7826d4370</sys_id><sys_mod_count>0</sys_mod_count><sys_name>v_shoni_coment</sys_name><sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package><sys_policy/><sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope><sys_update_name>catalog_ui_policy_action_591a1aad47040650621a73d7826d4370</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-30 07:31:46</sys_updated_on><table/><ui_policy display_value="承認者コメント欄の表示制御">551a1aad47040650621a73d7826d4359</ui_policy><variable>v_shoni_coment</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1905935882</payload_hash>
+        <record_name>v_shoni_coment</record_name>
+        <reverted_from/>
+        <source>4b7c8e1547f67110621a73d7826d43a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:35:05</sys_created_on>
+        <sys_id>39da1aed47040650621a73d7826d43e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d594b06ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:35:05</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>111a1aad8404065010fa2f7791f33d7a</update_guid>
+        <update_guid_history>111a1aad8404065010fa2f7791f33d7a:244977314,111a1aad8404065010fa2f7791f33d7a:244977314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="v_shoni_coment">dafa1eed47040650621a73d7826d4358</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:35:40</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>44a18930ac2d4ae0b505e5f49f872a40</sys_id>
+        <sys_metadata>591a1aad47040650621a73d7826d4370</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>v_shoni_coment</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_scope_delete display_value="">395fa1e0727a475c99799a1ae8f89a90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_591a1aad47040650621a73d7826d4370</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_591a1aad47040650621a73d7826d4370">39da1aed47040650621a73d7826d43e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:35:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
