@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="36ade4cc83311210368633d6feaad39b" label="name And mails" max_length="40" name="x_846092_tst_p0012_name_and_mails" type="collection">
+        <element label="V mail address" max_length="120" name="v_mail_address" type="string"/>
+        <element display="true" label="V user name" max_length="120" name="v_user_name" type="string"/>
+    </element>
+</database>

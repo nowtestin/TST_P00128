@@ -24,6 +24,7 @@
         <ignore_price>true</ignore_price>
         <image/>
         <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
         <mandatory_attachment>false</mandatory_attachment>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -40,6 +41,7 @@
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
         <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
         <no_search>false</no_search>
         <no_wishlist_v2>true</no_wishlist_v2>
         <omit_price>false</omit_price>
@@ -59,7 +61,7 @@
         <recurring_frequency/>
         <redirect_url>generated_record</redirect_url>
         <request_method/>
-        <roles/>
+        <roles>snc_internal</roles>
         <save_options/>
         <save_script><![CDATA[/**
 * This script is executed at every step save in Catalog Builder. 
@@ -87,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-28 08:53:39</sys_created_on>
         <sys_id>a0605e9947f67110621a73d7826d4347</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>発信通知</sys_name>
         <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
         <sys_policy/>
         <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
         <sys_update_name>sc_cat_item_producer_a0605e9947f67110621a73d7826d4347</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-28 08:56:05</sys_updated_on>
+        <sys_updated_on>2024-11-06 08:15:51</sys_updated_on>
         <table_name>x_846092_tst_p0012_task_p00128</table_name>
         <taxonomy_topic/>
         <template/>
@@ -102,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version/>
+        <version>8</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -128,4 +130,15 @@
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>a0605e9947f67110621a73d7826d4347</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 03:43:53</sys_created_on>
+        <sys_id>0fac280883311210368633d6feaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-06 03:43:53</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>

@@ -4,6 +4,7 @@
         <element label="通知先会社" max_length="80" name="u_field_name_2" type="field_name"/>
         <element label="通知先会社" max_length="65536" name="u_html_1" read_only="true" type="html"/>
         <element label="V_approval_step1" max_length="4000" name="v_approval_step1" type="glide_list"/>
+        <element label="DDD" max_length="40" name="v_ddd" type="boolean"/>
         <element label="添付ファイル：通知本文" mandatory="true" max_length="40" name="v_file_attachment_1" type="file_attachment"/>
         <element label="通知ファイル名" max_length="200" name="v_file_name" read_only="true" type="string"/>
         <element choice="1" label="V_公開" max_length="40" name="v_gongkai" type="choice">
@@ -14,8 +15,7 @@
                 <element inactive_on_update="false" label="公開する" language="ja" value="a"/>
             </choice>
         </element>
-        <element label="ＮＥＣＤ" max_length="40" name="v_necd" type="boolean"/>
-        <element label="ＮＥＳＤ" max_length="40" name="v_nesd" type="boolean"/>
+        <element label="NNN" max_length="40" name="v_nnn" type="boolean"/>
         <element label="承認者コメント欄" max_length="4000" name="v_shoni_coment" type="string"/>
         <element choice="1" label="通知方法" max_length="40" name="v_tongzhi_ff" type="choice">
             <choice>

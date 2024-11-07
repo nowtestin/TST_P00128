@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>350</order>
+        <sc_cat_item display_value="発信通知">a0605e9947f67110621a73d7826d4347</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 03:43:42</sys_created_on>
+        <sys_id>b78ce84c83311210368633d6feaad354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>要員名前とメール.発信通知</sys_name>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>io_set_item_b78ce84c83311210368633d6feaad354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-06 03:43:42</sys_updated_on>
+        <variable_set display_value="要員名前とメール">2438a00883311210368633d6feaad317</variable_set>
+    </io_set_item>
+</record_update>
