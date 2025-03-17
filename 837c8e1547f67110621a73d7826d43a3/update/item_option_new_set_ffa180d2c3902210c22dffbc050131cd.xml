@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
     <item_option_new_set action="INSERT_OR_UPDATE">
         <create_roles/>
-        <description>要員名前とメール,record producer  Action 用</description>
-        <display_title>false</display_title>
-        <internal_name>nameandmails</internal_name>
-        <layout>2across</layout>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>v_11111</internal_name>
+        <layout>normal</layout>
         <name/>
         <order>100</order>
         <read_roles/>
         <set_attributes/>
         <sys_class_name>item_option_new_set</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-06 03:25:39</sys_created_on>
-        <sys_id>2438a00883311210368633d6feaad317</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>要員名前とメール</sys_name>
+        <sys_created_on>2025-03-17 06:59:49</sys_created_on>
+        <sys_id>ffa180d2c3902210c22dffbc050131cd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>緊急度</sys_name>
         <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
         <sys_policy/>
         <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
-        <sys_update_name>item_option_new_set_2438a00883311210368633d6feaad317</sys_update_name>
+        <sys_update_name>item_option_new_set_ffa180d2c3902210c22dffbc050131cd</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2025-03-17 07:00:21</sys_updated_on>
-        <title>要員名前とメール</title>
-        <type>one_to_many</type>
-        <version>11</version>
+        <sys_updated_on>2025-03-17 07:12:49</sys_updated_on>
+        <title>緊急度</title>
+        <type>one_to_one</type>
+        <version>4</version>
         <write_roles/>
     </item_option_new_set>
 </record_update>
