@@ -7,6 +7,7 @@
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <cc_render_type/>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
@@ -81,6 +82,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
+        <secondary_owners/>
         <short_description>承認者編集可能の調査</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -89,22 +91,22 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-28 08:53:39</sys_created_on>
         <sys_id>a0605e9947f67110621a73d7826d4347</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_name>発信通知</sys_name>
         <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
         <sys_policy/>
         <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
         <sys_update_name>sc_cat_item_producer_a0605e9947f67110621a73d7826d4347</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2025-03-17 07:04:34</sys_updated_on>
+        <sys_updated_on>2026-07-07 08:38:33</sys_updated_on>
         <table_name>x_846092_tst_p0012_task_p00128</table_name>
-        <taxonomy_topic/>
+        <taxonomy_topic display_value="Software">d22413a7c3053010069aec4b7d40ddf8</taxonomy_topic>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>14</version>
+        <version>20</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

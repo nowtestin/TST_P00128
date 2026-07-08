@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_846092_tst_p0012_task_p00128</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>file_check</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous) {
+    var extractor = new DocLocalExtractor();
+    var targetName = current.u_product_name.toString().trim();
+    var attachGr = new GlideRecord("sys_attachment");
+    attachGr.addQuery("table_name", current.getTableName());
+    attachGr.addQuery("table_sys_id", current.sys_id);
+    attachGr.query();
+
+    while (attachGr.next()) {
+        try {
+            var content = extractor.extractText(attachGr);
+            // 全角/半角コロン両方対応
+            var reg = /品名[:：]\s*([^\n\r]+)/;
+            var match = content.match(reg);
+            if (!match) continue;
+
+            var fileItem = match[1].trim();
+            if (fileItem !== targetName) {
+                gs.addErrorMessage(
+                    "エラー：添付ファイル【" + attachGr.file_name + "】内品名「"
+                    + fileItem + "」が帳票品名「" + targetName + "」と不一致"
+                );
+                current.setAbortAction(true);
+                return;
+            }
+        } catch (e) {
+            gs.addErrorMessage("ファイル解析失敗：" + e.message);
+            current.setAbortAction(true);
+            return;
+        }
+    }
+})(current, previous);
+]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-07 10:01:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9249cdb7c3394310ee8fd60d050131a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>file_check</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
+        <sys_update_name>sys_script_9249cdb7c3394310ee8fd60d050131a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-07 10:01:45</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=9249cdb7c3394310ee8fd60d050131a3"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>9249cdb7c3394310ee8fd60d050131a3</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-07 10:01:44</sys_created_on>
+        <sys_id>b5c9c577c3394310ee8fd60d05013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-07 10:01:44</sys_updated_on>
+        <table>sys_script</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
