@@ -29,10 +29,18 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous) {
     var extractor = new DocLocalExtractor();
-    var targetName = current.u_product_name.toString().trim();
+	//品名
+    //var targetName = current.u_product_name.toString().trim();
+    var targetName = current.v_hinmei.toString().trim();
+	gs.info('targetName:'+ targetName);
     var attachGr = new GlideRecord("sys_attachment");
-    attachGr.addQuery("table_name", current.getTableName());
-    attachGr.addQuery("table_sys_id", current.sys_id);
+    //attachGr.addQuery("table_name", current.getTableName());
+	//gs.info('table_name:'+current.getTableName());
+    //attachGr.addQuery("table_sys_id", current.sys_id);
+	//gs.info('table_sys_id:'+current.sys_id);
+	attachGr.addQuery("table_name", 'ZZ_YYx_846092_tst_p0012_task_p00128');
+	attachGr.addQuery("table_sys_id", '47e75908c38ac310ee8fd60d05013124');
+
     attachGr.query();
 
     while (attachGr.next()) {
@@ -66,7 +74,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9249cdb7c3394310ee8fd60d050131a3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>file_check</sys_name>
         <sys_overrides/>
         <sys_package display_value="TST_P00128" source="x_846092_tst_p0012">837c8e1547f67110621a73d7826d43a3</sys_package>
@@ -74,7 +82,7 @@
         <sys_scope display_value="TST_P00128">837c8e1547f67110621a73d7826d43a3</sys_scope>
         <sys_update_name>sys_script_9249cdb7c3394310ee8fd60d050131a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-07 10:01:45</sys_updated_on>
+        <sys_updated_on>2026-07-08 06:18:42</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
